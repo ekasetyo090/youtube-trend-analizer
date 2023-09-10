@@ -76,7 +76,7 @@ One of the core features of this script is the ability to analyze keyword trends
 
 Understanding daily patterns in keyword search behavior is essential for scheduling content, marketing campaigns, or live streams. The script provides visualizations that allow you to see how search interest varies by day of the week.
 
-![Keyword Trend by Day](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_by_day.png)
+![Keyword Trend by Day](https://github.com/ekasetyo090/youtube-trend-analizer/blob/0e19f49c79bd04a361ba0dc471939cb70a74352a/main/screenshots/keyword_trend_by_day.png)
 
 ### Keyword Trends by Hour
 
@@ -106,7 +106,7 @@ Here are some screenshots illustrating the script's visualizations:
 
 ![Keyword Trend Over Time](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_over_time.png)
 
-![Keyword Trend by Day](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_by_day.png)
+![Keyword Trend by Day](https://github.com/ekasetyo090/youtube-trend-analizer/blob/0e19f49c79bd04a361ba0dc471939cb70a74352a/main/screenshots/keyword_trend_by_day.png)
 
 ![Keyword Trend by Hour](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_by_hour.png)
 
