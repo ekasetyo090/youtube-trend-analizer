@@ -1,6 +1,6 @@
 # Google Trends Keyword Analysis
 
-![Google Trends Keyword Analysis](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_over_time.png)
+![Google Trends Keyword Analysis](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_over_time.png)
 
 ## Description
 
@@ -70,7 +70,7 @@ The script's modular structure allows you to analyze keyword trends in various w
 
 One of the core features of this script is the ability to analyze keyword trends over time. You can visualize how the popularity of a keyword has evolved over a specific period. This feature is valuable for understanding the long-term trajectory of a keyword's search interest.
 
-![Keyword Trend Over Time](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_over_time.png)
+![Keyword Trend Over Time](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_over_time.png)
 
 ### Keyword Trends by Day
 
@@ -82,7 +82,7 @@ Understanding daily patterns in keyword search behavior is essential for schedul
 
 For more granular insights, you can analyze keyword trends by hour of the day. This feature helps you pinpoint the specific hours when your target audience is most active, making it ideal for optimizing ad placements, live streams, or content publication times.
 
-![Keyword Trend by Hour](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_by_hour.png)
+![Keyword Trend by Hour](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_by_hour.png)
 
 ### Keyword Suggestions
 
@@ -104,11 +104,11 @@ Customizing these parameters allows you to conduct precise keyword analysis that
 https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_by_day.png
 Here are some screenshots illustrating the script's visualizations:
 
-![Keyword Trend Over Time](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_over_time.png)
+![Keyword Trend Over Time](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_over_time.png)
 
 ![Keyword Trend by Day](https://github.com/ekasetyo090/youtube-trend-analizer/blob/0e19f49c79bd04a361ba0dc471939cb70a74352a/main/screenshots/keyword_trend_by_day.png)
 
-![Keyword Trend by Hour](https://raw.githubusercontent.com/ekasetyo090/youtube-trend-analizer/main/screenshots/keyword_trend_by_hour.png)
+![Keyword Trend by Hour](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_by_hour.png)
 
 ## Contributing
 
