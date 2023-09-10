@@ -1,6 +1,11 @@
+
+
 # Google Trends Keyword Analysis
 
 ![Google Trends Keyword Analysis](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_over_time.png)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ekasetyo090/youtube-trend-analizer/blob/master/youtube-trend-analizer.ipynb)
+
 
 ## Description
 
