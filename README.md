@@ -23,7 +23,6 @@ This Python script allows you to analyze keyword trends using Google Trends data
   - [Keyword Trends Over Time](#keyword-trends-over-time)
   - [Keyword Trends by Day](#keyword-trends-by-day)
   - [Keyword Trends by Hour](#keyword-trends-by-hour)
-  - [Keyword Suggestions](#keyword-suggestions)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
@@ -76,23 +75,23 @@ The script's modular structure allows you to analyze keyword trends in various w
 
 One of the core features of this script is the ability to analyze keyword trends over time. You can visualize how the popularity of a keyword has evolved over a specific period. This feature is valuable for understanding the long-term trajectory of a keyword's search interest.
 
+![Keyword Trend Over Time](https://github.com/ekasetyo090/youtube-trend-analizer/blob/aeecb862df3d195d207c19d796898f5e723b39f7/main/screenshots/menu_keyword_trend_over_time.png)
 ![Keyword Trend Over Time](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_over_time.png)
 
 ### Keyword Trends by Day
 
 Understanding daily patterns in keyword search behavior is essential for scheduling content, marketing campaigns, or live streams. The script provides visualizations that allow you to see how search interest varies by day of the week.
 
+![Keyword Trend by Day](https://github.com/ekasetyo090/youtube-trend-analizer/blob/aeecb862df3d195d207c19d796898f5e723b39f7/main/screenshots/menu_keyword_trend_by_day.png)
 ![Keyword Trend by Day](https://github.com/ekasetyo090/youtube-trend-analizer/blob/0e19f49c79bd04a361ba0dc471939cb70a74352a/main/screenshots/keyword_trend_by_day.png)
 
 ### Keyword Trends by Hour
 
 For more granular insights, you can analyze keyword trends by hour of the day. This feature helps you pinpoint the specific hours when your target audience is most active, making it ideal for optimizing ad placements, live streams, or content publication times.
 
+![Keyword Trend by Hour](https://github.com/ekasetyo090/youtube-trend-analizer/blob/aeecb862df3d195d207c19d796898f5e723b39f7/main/screenshots/menu_keyword_trend_by_hour.png)
 ![Keyword Trend by Hour](https://github.com/ekasetyo090/youtube-trend-analizer/blob/cce12b7ad44fa22572d38f832f8e7e0f027f65e2/main/keyword_trend_by_hour.png)
 
-### Keyword Suggestions
-
-Discovering related keywords can be valuable for expanding your content strategy. The script provides keyword suggestions based on your input keyword. These suggestions can help you identify additional topics to explore or include in your content.
 
 ## Customization
 
