@@ -6,6 +6,7 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ekasetyo090/youtube-trend-analizer/blob/master/youtube-trend-analizer.ipynb)
 
+Google Colab Usage Tutorial https://www.youtube.com/watch?v=inN8seMm7UI
 
 ## Description
 
