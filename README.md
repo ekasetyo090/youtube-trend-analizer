@@ -121,7 +121,7 @@ Contributions to this project are welcome! If you'd like to enhance the script, 
 
 ## License
 
-This project is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
+This project is free to use.
 
 ---
 
